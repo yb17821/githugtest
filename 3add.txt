@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
-=======
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbb
->>>>>>> 2
+11111111111
