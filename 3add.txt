@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+=======
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> 2
